@@ -9,7 +9,7 @@
 
 ### Contact Me
 
-(https://img.icons8.com/doodle/48/000000/linkedin--v2.png)[ linkedin ]
+[!LinkedIn logo](https://img.icons8.com/doodle/48/000000/linkedin--v2.png)[ linkedin ]
 
 ### Languages and tools
 
