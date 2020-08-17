@@ -9,10 +9,16 @@
 
 ### Contact Me
 
-[![LinkedIn logo](https://img.icons8.com/doodle/48/000000/linkedin--v2.png)][linkedin]
-[![Email logo](https://img.icons8.com/doodle/48/000000/email--v1.png)][email]
+<!-- TODO check links, size correctly-->
 
-### Languages and tools
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >](linkedin)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" >](email)
+
+### Languages and frameworks
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" >] </br>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.js.svg" >] </br>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c-sharp.svg" >] </br>
 
 ### University module projects
 
