@@ -1,20 +1,23 @@
-### Hi there, I'm Yagna
+### Hi there :wave: I'm Yagna
 
-## I'm a graduate from University of Warwick, BSc Computer Science
+## I'm a graduate :man_student: from University of Warwick, BSc Computer Science :classical_building:
 
-- I'm currently learning more about React Native, GraphQL and Docker
+:bangbang: I'm currently learning more about React Native, GraphQL and Docker :whale:
+:octocat: Looking to contrabute more to open source projects
+:keyboard: Trying to get better with Vim
+:trophy: 2020 goal: Build a few apps :iphone:, IoT :globe_with_meridians:, Blockchain
 
-:octocat: One of my goals at the moment is to contrabute more to open source
+### Important links
 
-- Trying to get better with Vim
-- 2020 goal: Build a few apps, IoT, Blockchain
+### Languages and tools
 
-Important links
+### University module projects
 
-Languages and tools
+### GitHub stats
 
-University module projects
+### Tools that I find useful
 
-GitHub stats
-
-Tools that I find useful
+:mountain_snow:
+:building_construction:
+:telescope:
+:unlock:
