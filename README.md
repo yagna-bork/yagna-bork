@@ -1,6 +1,6 @@
-### Hi there :wave: I'm Yagna
+### :wave: Hi there i'm Yagna
 
-## I'm a graduate :man_student: from University of Warwick, BSc Computer Science :classical_building:
+## I'm a graduate :man_student: from the University of Warwick, BSc Computer Science :classical_building:
 
 > :bangbang: I'm currently learning more about _React Native_, _GraphQL_ and _Docker_ :whale: </br >
 > :octocat: Looking to contrabute more to open source projects </br >
@@ -9,7 +9,8 @@
 
 ### Contact Me
 
-![LinkedIn logo](https://img.icons8.com/doodle/48/000000/linkedin--v2.png)[ linkedin ]
+[![LinkedIn logo](https://img.icons8.com/doodle/48/000000/linkedin--v2.png)][linkedin]
+[![Email logo](https://img.icons8.com/doodle/48/000000/email--v1.png)][email]
 
 ### Languages and tools
 
@@ -25,3 +26,4 @@
 :unlock:
 
 [linkedin]: https://www.linkedin.com/in/yagna-borkhatriya
+[email]: yagna.b@outlook.com
